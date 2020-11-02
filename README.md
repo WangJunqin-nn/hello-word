@@ -1,2 +1,4 @@
 # hello-word
-First repository
+
+Hi Humans!
+It is my first repository.
